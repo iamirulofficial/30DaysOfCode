@@ -1,5 +1,6 @@
 //https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1
 // { Driver Code Starts
+//re_init
 #include <bits/stdc++.h>
 using namespace std;
 
