@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\D3_P3_233A.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\D3_P3_233A.dir/objects.a @CMakeFiles\D3_P3_233A.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\D3_P3_233A.dir/objects.a -Wl,--no-whole-archive  -o D3_P3_233A.exe -Wl,--out-implib,libD3_P3_233A.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\D3_P3_233A.dir\linklibs.rsp
