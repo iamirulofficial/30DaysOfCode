@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Edwin Jarvis/Desktop/repos/250-Problems/30DaysOfCode/Day6/cses-dp-2/main.cpp
+bits/stdc++.h
+-
+
