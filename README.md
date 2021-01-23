@@ -8,16 +8,3 @@
         <img src="https://img.shields.io/twitter/follow/aadicodes?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
-
-
-
-## Day 1
-  [Go to Day 1](https://github.com/iamirulofficial/30DaysOfCode/tree/master/Day1)
-- [x] Atleast One Hour Coding
-- [x] Summary : Two gfg problems and getting started with GCP
-- [x] Updated on Twitter
-## Day 2
-  [Go to Day 2]()
-- [ ] Atleast One Hour Coding
-- [ ] Summary : 
-- [ ] Updated on Twitter
